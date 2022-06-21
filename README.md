@@ -1,4 +1,4 @@
-# java-practice-summer
+# java-practice-summer (Bank app)
 
 This is my summer project app, which I made during my college practice. 
 It is a simple bank app with rather minimal functionality. 
