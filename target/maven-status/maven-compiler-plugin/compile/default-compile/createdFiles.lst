@@ -1,0 +1,12 @@
+Main.class
+model\Client.class
+model\Contract.class
+model\Credit.class
+model\ExchangerImpl.class
+model\Currency.class
+model\PhysicalClient.class
+model\Exchanger.class
+model\Bank.class
+layoutsizingaligning\LayoutSizingAligning.class
+model\JuridicalClient.class
+model\ExchangeRater.class
